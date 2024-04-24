@@ -1,6 +1,6 @@
 # OSTEOPOROSIS
 ## INTRODUCTION
-- The dataset provides lifestyle details of individuals with and without osteoporosis, including demographic information, lifestyle factors like physical activity, smoking, and alcohol consumption, and medical history. It aims to aid research in osteoporosis risk prediction and analysis, enabling the development and evaluation of machine learning models to identify individuals at risk based on various health factors.
+- The dataset provides lifestyle details of individuals with and without osteoporosis, including demographic information, lifestyle factors like physical activity, smoking, and alcohol consumption, and medical history. 
 - The Osteoporosis dataset typically includes the following columns:
 
 - ID: A unique identifier for each participant.
@@ -34,3 +34,24 @@
 - Prior Fractures
 
 - Osteoporosis
+
+
+This dashboard was created to understand the aims to research in osteoporosis risk prediction and analysis, enabling the development 
+
+## Project Questions
+
+- What is the gender distribution of OSteoporosis?
+- If Age risk factor for oSteoporosis?
+- What  Race / ethnicity is affected the most?
+
+
+## Skills Demonstrated
+- DAX
+- Slicers
+- Filters
+- Measures
+- Data Transformation
+- Data Extraction
+- Data Modelling
+
+## OSTEOPOROSIS Dashboard

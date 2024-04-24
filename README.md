@@ -54,4 +54,4 @@ This dashboard was created to understand the aims to research in osteoporosis ri
 - Data Extraction
 - Data Modelling
 
-## OSTEOPOROSIS Dashboard
+## OSTEOPOROSIS Visuals/Dashboard

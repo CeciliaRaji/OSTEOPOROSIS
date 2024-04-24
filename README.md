@@ -55,3 +55,10 @@ This dashboard was created to understand the aims to research in osteoporosis ri
 - Data Modelling
 
 ## OSTEOPOROSIS Visuals/Dashboard
+
+#### Page1
+
+<img width="754" alt="osteo dashboard" src="https://github.com/CeciliaRaji/OSTEOPOROSIS/assets/166234463/347978d4-00bb-4c2e-a82a-b2f79d0b59db">
+
+
+#### Page1

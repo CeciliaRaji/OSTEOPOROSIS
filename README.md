@@ -58,7 +58,7 @@ This dashboard was created to understand the aims to research in osteoporosis ri
 
 #### Page1
 
-<img width="754" alt="osteo dashboard" src="https://github.com/CeciliaRaji/OSTEOPOROSIS/assets/166234463/347978d4-00bb-4c2e-a82a-b2f79d0b59db">
+<img width="511" alt="OSTEOO DASHBOARD" src="https://github.com/CeciliaRaji/OSTEOPOROSIS/assets/166234463/d5f4ff75-043e-4945-8a06-ae2280657bd6">
 
 
 #### Page2
